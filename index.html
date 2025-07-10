@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Dutch Verb Conjugation Quiz</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; background-color: #f4f4f4; }
+    h2 { color: #333; }
+    .question-set { background: #fff; padding: 1rem; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); }
+    .question { margin-bottom: 0.5rem; }
+    .question-label { font-weight: bold; margin-right: 0.5rem; }
+    input[type="text"] { padding: 0.4rem; margin-left: 0.5rem; border-radius: 4px; border: 1px solid #ccc; }
+    button { padding: 0.3rem 0.8rem; margin-left: 0.5rem; border: none; border-radius: 5px; background-color: #007BFF; color: white; cursor: pointer; }
+    .result { margin-top: 0.5rem; font-weight: bold; }
+    .correct { color: green; }
+    .incorrect { color: red; }
+    #navigation { margin-top: 1rem; }
+    #pagination { margin-top: 1rem; }
+    .page-link { cursor: pointer; padding: 0.4rem 0.7rem; background: #ddd; border-radius: 4px; margin: 0 4px; display: inline-block; }
+    .page-link.active { background: #007BFF; color: white; }
+    #final-score { font-size: 1.2rem; font-weight: bold; margin-top: 2rem; }
+    .hint, .explanation { font-style: italic; font-size: 0.9rem; color: #555; display: none; margin-top: 0.2rem; }
+  </style>
+</head>
+<body>
+  <h2>Dutch Verb Gap-Fill Quiz</h2>
+  <div id="quiz-container"></div>
+  <div id="navigation">
+    <button onclick="prevPage()" id="prev-button" style="display:none">Previous Page</button>
+    <button onclick="nextPage()" id="next-button" style="display:none">Next Page</button>
+  </div>
+  <div id="pagination"></div>
+  <div id="final-score"></div>
+
+  <script src="quiz_questions.js"></script>
+  <script>
+    let questions = window.questions || [];
+    let currentPage = 0;
+    const pageSize = 10;
+
+    function createQuiz() {
+      const container = document.getElementById('quiz-container');
+      container.innerHTML = '';
+      const start = currentPage * pageSize;
+      const end = Math.min(start + pageSize, questions.length);
+      questions.slice(start, end).forEach((q, index) => {
+        const qIndex = start + index;
+        const div = document.createElement('div');
+        div.className = 'question-set';
+        div.innerHTML = ['present', 'past', 'continuous'].map(type => {
+          const form = q.forms[type];
+          return `
+            <div class="question">
+              <span class='question-label'>${type.charAt(0).toUpperCase() + type.slice(1)}:</span>
+              ${form.sentence.replace("_____", `<input type='text' id='${type}-${qIndex}' />`)}
+              <button onclick="showHint('hint-${type}-${qIndex}')">Hint</button>
+              <button onclick="showExplanation('explanation-${type}-${qIndex}')">Explain</button>
+              <button onclick="checkSingleAnswer(${qIndex}, '${type}')">Check</button>
+              <div id='hint-${type}-${qIndex}' class='hint'>${form.hint}</div>
+              <div id='explanation-${type}-${qIndex}' class='explanation'>${form.explanation}</div>
+              <div id='result-${type}-${qIndex}' class='result'></div>
+            </div>
+          `;
+        }).join('');
+        container.appendChild(div);
+      });
+
+      document.getElementById('prev-button').style.display = currentPage > 0 ? 'inline-block' : 'none';
+      document.getElementById('next-button').style.display = (currentPage + 1) * pageSize < questions.length ? 'inline-block' : 'none';
+
+      const pagination = document.getElementById('pagination');
+      pagination.innerHTML = '';
+      const pageCount = Math.ceil(questions.length / pageSize);
+      for (let i = 0; i < pageCount; i++) {
+        const pageLink = document.createElement('span');
+        pageLink.className = 'page-link' + (i === currentPage ? ' active' : '');
+        pageLink.innerText = i + 1;
+        pageLink.onclick = () => { currentPage = i; createQuiz(); };
+        pagination.appendChild(pageLink);
+      }
+
+      if ((currentPage + 1) * pageSize >= questions.length) {
+        const finalBtn = document.createElement('button');
+        finalBtn.textContent = "Calculate Final Score";
+        finalBtn.onclick = calculateFinalScore;
+        pagination.appendChild(finalBtn);
+      }
+    }
+
+    function showHint(id) {
+      const el = document.getElementById(id);
+      if (el) el.style.display = 'block';
+    }
+
+    function showExplanation(id) {
+      const el = document.getElementById(id);
+      if (el) el.style.display = 'block';
+    }
+
+    function checkSingleAnswer(index, type) {
+      const input = document.getElementById(`${type}-${index}`);
+      if (!input) return;
+      let userInput = input.value.trim().toLowerCase();
+      let correctAnswer = questions[index].forms[type].answer.toLowerCase();
+      const resultDiv = document.getElementById(`result-${type}-${index}`);
+
+      const isCorrect = userInput === correctAnswer;
+      resultDiv.textContent = isCorrect ? 'Correct!' : `Incorrect. Antwoord: ${correctAnswer}`;
+      resultDiv.className = 'result ' + (isCorrect ? 'correct' : 'incorrect');
+    }
+
+    function calculateFinalScore() {
+      let totalCorrect = 0;
+      questions.forEach((q, index) => {
+        ['present', 'past', 'continuous'].forEach(type => {
+          const input = document.getElementById(`${type}-${index}`);
+          if (input) {
+            const value = input.value.trim().toLowerCase();
+            if (value === q.forms[type].answer.toLowerCase()) {
+              totalCorrect++;
+            }
+          }
+        });
+      });
+      document.getElementById('final-score').textContent = `Eindscore: ${totalCorrect} / ${questions.length * 3}`;
+    }
+
+    function nextPage() {
+      currentPage++;
+      createQuiz();
+    }
+
+    function prevPage() {
+      if (currentPage > 0) {
+        currentPage--;
+        createQuiz();
+      }
+    }
+
+    createQuiz();
+  </script>
+</body>
+</html>
