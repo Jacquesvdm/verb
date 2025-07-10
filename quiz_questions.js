@@ -1,2301 +1,2301 @@
 const questions = [
   {
-    "infinitive": "to stand",
+    "infinitive": "staan",
     "forms": {
       "present": {
-        "sentence": "I _____ got up early.",
-        "answer": "I get up early.",
-        "hint": "This is the present tense of 'to stand'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik sta vroeg op.",
+        "hint": "Dit is de tegenwoordige tijd van 'staan'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ got up early.",
-        "answer": "I got up early.",
-        "hint": "This is the past tense of 'to stand'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik stond vroeg op.",
+        "hint": "Dit is de verleden tijd van 'staan'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ got up early.",
-        "answer": "I'm getting up.",
-        "hint": "Use 'aan het' + infinitive for 'staan'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik ben aan het opstaan.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'staan'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to polish",
+    "infinitive": "poetsen",
     "forms": {
       "present": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I brush my teeth.",
-        "hint": "This is the present tense of 'to polish'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik poets mijn tanden.",
+        "hint": "Dit is de tegenwoordige tijd van 'poetsen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I brushed my teeth.",
-        "hint": "This is the past tense of 'to brush'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik poetste mijn tanden.",
+        "hint": "Dit is de verleden tijd van 'poetsen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I'm brushing my teeth.",
-        "hint": "Use 'aan het' + infinitive for 'schoon'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik ben mijn tanden aan het poetsen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'poetsen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to make",
+    "infinitive": "maken",
     "forms": {
       "present": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I make breakfast for my family.",
-        "hint": "This is the present tense of 'to make'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik maak ontbijt voor mijn gezin.",
+        "hint": "Dit is de tegenwoordige tijd van 'maken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I made breakfast for my family.",
-        "hint": "This is the past tense of 'to make'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik maakte ontbijt voor mijn gezin.",
+        "hint": "Dit is de verleden tijd van 'maken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I am making breakfast for my family.",
-        "hint": "Use 'aan het' + infinitive for 'maken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik ben ontbijt aan het maken voor mijn gezin.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'maken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to eat",
+    "infinitive": "eten",
     "forms": {
       "present": {
-        sentence: "We _____ together at the table."
-        "answer": "We eat together at the table.",
-        "hint": "This is the present tense of 'to eat'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We eten samen aan tafel.",
+        "hint": "Dit is de tegenwoordige tijd van 'eten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ together at the table."
-        "answer": "We ate together at the table.",
-        "hint": "This is the past tense of 'to eat'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We aten samen aan tafel.",
+        "hint": "Dit is de verleden tijd van 'eten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ together at the table."
-        "answer": "We are eating at the table.",
-        "hint": "Use 'aan het' + infinitive for 'eten'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We zijn aan het eten aan tafel.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'eten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to attract",
+    "infinitive": "aantrekken",
     "forms": {
       "present": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children are putting on their shoes.",
-        "hint": "This is the present tense of 'to attract'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen trekken hun schoenen aan.",
+        "hint": "Dit is de tegenwoordige tijd van 'aantrekken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children put on their shoes.",
-        "hint": "This is the past tense of 'to attract'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen trokken hun schoenen aan.",
+        "hint": "Dit is de verleden tijd van 'aantrekken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children are putting on their shoes.",
-        "hint": "Use 'aan het' + infinitive for 'to put on'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen zijn hun schoenen aan het aantrekken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'aantrekken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cycle",
+    "infinitive": "fietsen",
     "forms": {
       "present": {
-        sentence: "We _____ to school."
-        "answer": "We cycle to school.",
-        "hint": "This is the present tense of 'bicycles'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ naar school.",
+        "answer": "We fietsen naar school.",
+        "hint": "Dit is de tegenwoordige tijd van 'fietsen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ to school."
-        "answer": "We cycled to school.",
-        "hint": "This is the past tense of 'bicycles'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ naar school.",
+        "answer": "We fietsten naar school.",
+        "hint": "Dit is de verleden tijd van 'fietsen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ to school."
-        "answer": "We are cycling to school.",
-        "hint": "Use 'aan het' + infinitive for 'fietsen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ naar school.",
+        "answer": "We zijn aan het fietsen naar school.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'fietsen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to wave",
+    "infinitive": "zwaaien",
     "forms": {
       "present": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I'm waving to the kids at the gate.",
-        "hint": "This is the present tense of 'to wave'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik zwaai naar de kinderen bij het hek.",
+        "hint": "Dit is de tegenwoordige tijd van 'zwaaien'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I waved to the kids at the gate.",
-        "hint": "This is the past tense of 'to wave'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik zwaaide naar de kinderen bij het hek.",
+        "hint": "Dit is de verleden tijd van 'zwaaien'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I'm waving at the children.",
-        "hint": "Use 'aan het' + infinitive for 'waving'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik ben naar de kinderen aan het zwaaien.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zwaaien'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drive",
+    "infinitive": "rijden",
     "forms": {
       "present": {
-        "sentence": "I _____ to work.",
-        "answer": "I drive to work.",
-        "hint": "This is the present tense of 'to drive'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik rijd naar mijn werk.",
+        "hint": "Dit is de tegenwoordige tijd van 'rijden'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to work.",
-        "answer": "I drove to work.",
-        "hint": "This is the past tense of 'to drive'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik reed naar mijn werk.",
+        "hint": "Dit is de verleden tijd van 'rijden'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to work.",
-        "answer": "I'm driving to work.",
-        "hint": "Use 'aan het' + infinitive for 'rijden'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik ben aan het rijden naar mijn werk.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rijden'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to start",
+    "infinitive": "starten",
     "forms": {
       "present": {
-        sentence: "I _____ my computer."
-        "answer": "I start my computer.",
-        "hint": "This is the present tense of 'to start'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik start mijn computer.",
+        "hint": "Dit is de tegenwoordige tijd van 'starten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "I _____ my computer."
-        "answer": "I started my computer.",
-        "hint": "This is the past tense of 'to start'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik startte mijn computer.",
+        "hint": "Dit is de verleden tijd van 'starten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "I _____ my computer."
-        "answer": "I'm starting my computer.",
-        "hint": "Use 'aan het' + infinitive for 'to start'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik ben mijn computer aan het starten.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'starten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to read",
+    "infinitive": "lezen",
     "forms": {
       "present": {
-        "sentence": "I _____ my emails.",
-        "answer": "I read my emails.",
-        "hint": "This is the present tense of 'to read'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik lees mijn e-mails.",
+        "hint": "Dit is de tegenwoordige tijd van 'lezen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my emails.",
-        "answer": "I read my emails.",
-        "hint": "This is the past tense of 'to read'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik las mijn e-mails.",
+        "hint": "Dit is de verleden tijd van 'lezen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my emails.",
-        "answer": "I'm reading my emails.",
-        "hint": "Use 'aan het' + infinitive for 'lezen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik ben mijn e-mails aan het lezen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lezen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to ask",
+    "infinitive": "vragen",
     "forms": {
       "present": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague is asking for help.",
-        "hint": "This is the present tense of 'to ask'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega vraagt om hulp.",
+        "hint": "Dit is de tegenwoordige tijd van 'vragen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague asked for help.",
-        "hint": "This is the past tense of 'to ask'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega vroeg om hulp.",
+        "hint": "Dit is de verleden tijd van 'vragen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague is asking for help.",
-        "hint": "Use 'aan het' + infinitive for 'vragen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega is om hulp aan het vragen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'vragen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to work",
+    "infinitive": "werken",
     "forms": {
       "present": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We are working on a new project.",
-        "hint": "This is the present tense of 'werken'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We werken aan een nieuw project.",
+        "hint": "Dit is de tegenwoordige tijd van 'werken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We were working on a new project.",
-        "hint": "This is the past tense of 'werken'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We werkten aan een nieuw project.",
+        "hint": "Dit is de verleden tijd van 'werken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We are working on a new project.",
-        "hint": "Use 'aan het' + infinitive for 'werken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We zijn aan het werken aan een nieuw project.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'werken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drink",
+    "infinitive": "drinken",
     "forms": {
       "present": {
-        sentence: "We _____ coffee."
-        "answer": "We drink coffee.",
-        "hint": "This is the present tense of 'drink'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ koffie.",
+        "answer": "We drinken koffie.",
+        "hint": "Dit is de tegenwoordige tijd van 'drinken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ coffee."
-        "answer": "We drank coffee.",
-        "hint": "This is the past tense of 'drink'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ koffie.",
+        "answer": "We dronken koffie.",
+        "hint": "Dit is de verleden tijd van 'drinken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ coffee."
-        "answer": "We are drinking coffee.",
-        "hint": "Use 'aan het' + infinitive for 'drink'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ koffie.",
+        "answer": "We zijn koffie aan het drinken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'drinken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to call",
+    "infinitive": "bellen",
     "forms": {
       "present": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I'm calling a customer.",
-        "hint": "This is the present tense of 'to call'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik bel met een klant.",
+        "hint": "Dit is de tegenwoordige tijd van 'bellen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I was calling a customer.",
-        "hint": "This is the past tense of 'to call'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik belde met een klant.",
+        "hint": "Dit is de verleden tijd van 'bellen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I'm on the phone with a customer.",
-        "hint": "Use 'aan het' + infinitive for 'bellen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik ben met een klant aan het bellen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'bellen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to come",
+    "infinitive": "komen",
     "forms": {
       "present": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss is coming over.",
-        "hint": "This is the present tense of 'to come'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas komt langs.",
+        "hint": "Dit is de tegenwoordige tijd van 'komen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss came by.",
-        "hint": "This is the past tense of 'to come'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas kwam langs.",
+        "hint": "Dit is de verleden tijd van 'komen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss is coming by.",
-        "hint": "Use 'aan het' + infinitive for 'komen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas is langs aan het komen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'komen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to explain",
+    "infinitive": "uitleggen",
     "forms": {
       "present": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I'll explain the schedule.",
-        "hint": "This is the present tense of 'to explain'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik leg de planning uit.",
+        "hint": "Dit is de tegenwoordige tijd van 'uitleggen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I explained the schedule.",
-        "hint": "This is the past tense of 'to explain'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik legde de planning uit.",
+        "hint": "Dit is de verleden tijd van 'uitleggen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I'm explaining the schedule.",
-        "hint": "Use 'aan het' + infinitive for 'uitgelegd'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik ben de planning aan het uitleggen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'uitleggen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to write",
+    "infinitive": "schrijven",
     "forms": {
       "present": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I write in my diary.",
-        "hint": "This is the present tense of 'to write'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik schrijf in mijn agenda.",
+        "hint": "Dit is de tegenwoordige tijd van 'schrijven'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I wrote in my diary.",
-        "hint": "This is the past tense of 'to write'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik schreef in mijn agenda.",
+        "hint": "Dit is de verleden tijd van 'schrijven'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I'm writing in my diary.",
-        "hint": "Use 'aan het' + infinitive for 'schrijven'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik ben in mijn agenda aan het schrijven.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'schrijven'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to clean up",
+    "infinitive": "opruimen",
     "forms": {
       "present": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I'm cleaning my desk.",
-        "hint": "This is the present tense of 'to tidy up'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ruim mijn bureau op.",
+        "hint": "Dit is de tegenwoordige tijd van 'opruimen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I cleaned up my desk.",
-        "hint": "This is the past tense of 'to tidy up'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ruimde mijn bureau op.",
+        "hint": "Dit is de verleden tijd van 'opruimen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I'm cleaning up my desk.",
-        "hint": "Use 'aan het' + infinitive for 'tidy up'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ben mijn bureau aan het opruimen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'opruimen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to close",
+    "infinitive": "afsluiten",
     "forms": {
       "present": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I'm shutting down my computer.",
-        "hint": "This is the present tense of 'to close'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik sluit mijn computer af.",
+        "hint": "Dit is de tegenwoordige tijd van 'afsluiten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I shut down my computer.",
-        "hint": "This is the past tense of 'to close'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik sloot mijn computer af.",
+        "hint": "Dit is de verleden tijd van 'afsluiten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I'm shutting down my computer.",
-        "hint": "Use 'aan het' + infinitive for 'afsluiten'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik ben mijn computer aan het afsluiten.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'afsluiten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drive",
+    "infinitive": "rijden",
     "forms": {
       "present": {
-        "sentence": "I _____ home.",
-        "answer": "I'm driving home.",
-        "hint": "This is the present tense of 'to drive'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik rijd naar huis.",
+        "hint": "Dit is de tegenwoordige tijd van 'rijden'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ home.",
-        "answer": "I was driving home.",
-        "hint": "This is the past tense of 'to drive'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik reed naar huis.",
+        "hint": "Dit is de verleden tijd van 'rijden'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ home.",
-        "answer": "I'm driving home.",
-        "hint": "Use 'aan het' + infinitive for 'rijden'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik ben naar huis aan het rijden.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rijden'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to walk",
+    "infinitive": "lopen",
     "forms": {
       "present": {
-        "sentence": "I _____ to the park.",
-        "answer": "I'm walking to the park.",
-        "hint": "This is the present tense of 'to walk'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar het park.",
+        "answer": "Ik loop naar het park.",
+        "hint": "Dit is de tegenwoordige tijd van 'lopen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to the park.",
-        "answer": "I walked to the park.",
-        "hint": "This is the past tense of 'to walk'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar het park.",
+        "answer": "Ik liep naar het park.",
+        "hint": "Dit is de verleden tijd van 'lopen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to the park.",
-        "answer": "I'm walking to the park.",
-        "hint": "Use 'aan het' + infinitive for 'walking'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar het park.",
+        "answer": "Ik ben naar het park aan het lopen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lopen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to sleep",
+    "infinitive": "slapen",
     "forms": {
       "present": {
-        "sentence": "I _____ asked.",
-        "answer": "I sleep early.",
-        "hint": "This is the present tense of 'to sleep'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ vroeg.",
+        "answer": "Ik slaap vroeg.",
+        "hint": "Dit is de tegenwoordige tijd van 'slapen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ asked.",
-        "answer": "I slept early.",
-        "hint": "This is the past tense of 'to sleep'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ vroeg.",
+        "answer": "Ik sliep vroeg.",
+        "hint": "Dit is de verleden tijd van 'slapen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ asked.",
-        "answer": "I'm going to bed early.",
-        "hint": "Use 'aan het' + infinitive for 'to sleep'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ vroeg.",
+        "answer": "Ik ben vroeg aan het slapen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'slapen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to look",
+    "infinitive": "kijken",
     "forms": {
       "present": {
-        sentence: "We _____ to the movies."
-        "answer": "We're watching the movie.",
-        "hint": "This is the present tense of 'to look'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ naar de film.",
+        "answer": "We kijken naar de film.",
+        "hint": "Dit is de tegenwoordige tijd van 'kijken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ to the movies."
-        "answer": "We watched the movie.",
-        "hint": "This is the past tense of 'to look'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ naar de film.",
+        "answer": "We keken naar de film.",
+        "hint": "Dit is de verleden tijd van 'kijken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ to the movies."
-        "answer": "We are watching the movie.",
-        "hint": "Use 'aan het' + infinitive for 'kijken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ naar de film.",
+        "answer": "We zijn naar de film aan het kijken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'kijken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to listen",
+    "infinitive": "luisteren",
     "forms": {
       "present": {
-        "sentence": "I _____ to music.",
-        "answer": "I'm listening to music.",
-        "hint": "This is the present tense of 'listen'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar muziek.",
+        "answer": "Ik luister naar muziek.",
+        "hint": "Dit is de tegenwoordige tijd van 'luisteren'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to music.",
-        "answer": "I was listening to music.",
-        "hint": "This is the past tense of 'listen'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar muziek.",
+        "answer": "Ik luisterde naar muziek.",
+        "hint": "Dit is de verleden tijd van 'luisteren'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to music.",
-        "answer": "I'm listening to music.",
-        "hint": "Use 'aan het' + infinitive for 'to listen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar muziek.",
+        "answer": "Ik ben naar muziek aan het luisteren.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'luisteren'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to swim",
+    "infinitive": "zwemmen",
     "forms": {
       "present": {
-        sentence: "He _____ in the pool."
-        "answer": "He is swimming in the pool.",
-        "hint": "This is the present tense of 'to swim'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Hij _____ in het zwembad.",
+        "answer": "Hij zwemt in het zwembad.",
+        "hint": "Dit is de tegenwoordige tijd van 'zwemmen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "He _____ in the pool."
-        "answer": "He swam in the pool.",
-        "hint": "This is the past tense of 'to swim'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Hij _____ in het zwembad.",
+        "answer": "Hij zwom in het zwembad.",
+        "hint": "Dit is de verleden tijd van 'zwemmen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "He _____ in the pool."
-        "answer": "He is swimming in the pool.",
-        "hint": "Use 'aan het' + infinitive for 'swimming'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Hij _____ in het zwembad.",
+        "answer": "Hij is in het zwembad aan het zwemmen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zwemmen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to run",
+    "infinitive": "rennen",
     "forms": {
       "present": {
-        sentence: "They _____ fast."
-        "answer": "She runs fast.",
-        "hint": "This is the present tense of 'to run'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ snel.",
+        "answer": "Ze rent snel.",
+        "hint": "Dit is de tegenwoordige tijd van 'rennen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "They _____ fast."
-        "answer": "She ran fast.",
-        "hint": "This is the past tense of 'to run'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ snel.",
+        "answer": "Ze rende snel.",
+        "hint": "Dit is de verleden tijd van 'rennen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "They _____ fast."
-        "answer": "She is running fast.",
-        "hint": "Use 'aan het' + infinitive for 'running'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ snel.",
+        "answer": "Ze is snel aan het rennen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rennen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to learn",
+    "infinitive": "leren",
     "forms": {
       "present": {
-        "sentence": "I _____ Dutch.",
-        "answer": "I'm learning Dutch.",
-        "hint": "This is the present tense of 'to learn'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ Nederlands.",
+        "answer": "Ik leer Nederlands.",
+        "hint": "Dit is de tegenwoordige tijd van 'leren'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ Dutch.",
-        "answer": "I learned Dutch.",
-        "hint": "This is the past tense of 'to learn'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ Nederlands.",
+        "answer": "Ik leerde Nederlands.",
+        "hint": "Dit is de verleden tijd van 'leren'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ Dutch.",
-        "answer": "I am learning Dutch.",
-        "hint": "Use 'aan het' + infinitive for 'leren'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ Nederlands.",
+        "answer": "Ik ben Nederlands aan het leren.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'leren'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to study",
+    "infinitive": "studeren",
     "forms": {
       "present": {
-        sentence: "I _____ for my exam."
-        "answer": "I'm studying for my exam.",
-        "hint": "This is the present tense of 'to study'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ voor mijn examen.",
+        "answer": "Ik studeer voor mijn examen.",
+        "hint": "Dit is de tegenwoordige tijd van 'studeren'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "I _____ for my exam."
-        "answer": "I studied for my exam.",
-        "hint": "This is the past tense of 'to study'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ voor mijn examen.",
+        "answer": "Ik studeerde voor mijn examen.",
+        "hint": "Dit is de verleden tijd van 'studeren'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "I _____ for my exam."
-        "answer": "I'm studying for my exam.",
-        "hint": "Use 'aan het' + infinitive for 'studying'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ voor mijn examen.",
+        "answer": "Ik ben voor mijn examen aan het studeren.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'studeren'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cook",
+    "infinitive": "koken",
     "forms": {
       "present": {
-        "sentence": "My mother _____ pasta.",
-        "answer": "My mother cooks pasta.",
-        "hint": "This is the present tense of 'to cook'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn moeder _____ pasta.",
+        "answer": "Mijn moeder kookt pasta.",
+        "hint": "Dit is de tegenwoordige tijd van 'koken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My mother _____ pasta.",
-        "answer": "My mother cooked pasta.",
-        "hint": "This is the past tense of 'to cook'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn moeder _____ pasta.",
+        "answer": "Mijn moeder kookte pasta.",
+        "hint": "Dit is de verleden tijd van 'koken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My mother _____ pasta.",
-        "answer": "My mother is cooking pasta.",
-        "hint": "Use 'aan het' + infinitive for 'kooken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn moeder _____ pasta.",
+        "answer": "Mijn moeder is pasta aan het koken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'koken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to shop",
+    "infinitive": "winkelen",
     "forms": {
       "present": {
-        sentence: "We _____ in town."
-        "answer": "We're shopping in town.",
-        "hint": "This is the present tense of 'shopping'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ in de stad.",
+        "answer": "We winkelen in de stad.",
+        "hint": "Dit is de tegenwoordige tijd van 'winkelen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ in town."
-        "answer": "We went shopping in town.",
-        "hint": "This is the past tense of 'shopping'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ in de stad.",
+        "answer": "We winkelden in de stad.",
+        "hint": "Dit is de verleden tijd van 'winkelen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ in town."
-        "answer": "We are shopping in town.",
-        "hint": "Use 'aan het' + infinitive for 'winkelen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ in de stad.",
+        "answer": "We zijn in de stad aan het winkelen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'winkelen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to play",
+    "infinitive": "spelen",
     "forms": {
       "present": {
-        sentence: "The children _____ outside."
-        "answer": "The children are playing outside.",
-        "hint": "This is the present tense of 'to play'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De kinderen _____ buiten.",
+        "answer": "De kinderen spelen buiten.",
+        "hint": "Dit is de tegenwoordige tijd van 'spelen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "The children _____ outside."
-        "answer": "The children were playing outside.",
-        "hint": "This is the past tense of 'to play'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De kinderen _____ buiten.",
+        "answer": "De kinderen speelden buiten.",
+        "hint": "Dit is de verleden tijd van 'spelen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "The children _____ outside."
-        "answer": "The children are playing outside.",
-        "hint": "Use 'aan het' + infinitive for 'spelen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De kinderen _____ buiten.",
+        "answer": "De kinderen zijn buiten aan het spelen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'spelen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cry",
+    "infinitive": "huilen",
     "forms": {
       "present": {
-        "sentence": "The baby _____ hard.",
-        "answer": "The baby is crying loudly.",
-        "hint": "This is the present tense of 'crying'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De baby _____ hard.",
+        "answer": "De baby huilt hard.",
+        "hint": "Dit is de tegenwoordige tijd van 'huilen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "The baby _____ hard.",
-        "answer": "The baby was crying loudly.",
-        "hint": "This is the past tense of 'cry'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De baby _____ hard.",
+        "answer": "De baby huilde hard.",
+        "hint": "Dit is de verleden tijd van 'huilen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "The baby _____ hard.",
-        "answer": "The baby is crying hard.",
-        "hint": "Use 'aan het' + infinitive for 'crying'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De baby _____ hard.",
+        "answer": "De baby is hard aan het huilen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'huilen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    infinitive: "to laugh",
+    "infinitive": "lachen",
     "forms": {
       "present": {
-        "sentence": "They _____ for the joke.",
-        "answer": "She laughs at the joke.",
-        "hint": "This is the present tense of 'laugh'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ om de grap.",
+        "answer": "Ze lacht om de grap.",
+        "hint": "Dit is de tegenwoordige tijd van 'lachen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "They _____ for the joke.",
-        "answer": "She laughed at the joke.",
-        "hint": "This is the past tense of 'laugh'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ om de grap.",
+        "answer": "Ze lachte om de grap.",
+        "hint": "Dit is de verleden tijd van 'lachen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "They _____ for the joke.",
-        "answer": "She's laughing at the joke.",
-        "hint": "Use 'aan het' + infinitive for 'laughing'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ om de grap.",
+        "answer": "Ze is om de grap aan het lachen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lachen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to sing",
+    "infinitive": "zingen",
     "forms": {
       "present": {
-        "sentence": "He _____ a song.",
-        "answer": "He's singing a song.",
-        "hint": "This is the present tense of 'to sing'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Hij _____ een liedje.",
+        "answer": "Hij zingt een liedje.",
+        "hint": "Dit is de tegenwoordige tijd van 'zingen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "He _____ a song.",
-        "answer": "He sang a song.",
-        "hint": "This is the past tense of 'to sing'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Hij _____ een liedje.",
+        "answer": "Hij zong een liedje.",
+        "hint": "Dit is de verleden tijd van 'zingen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "He _____ a song.",
-        "answer": "He is singing a song.",
-        "hint": "Use 'aan het' + infinitive for 'zingen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Hij _____ een liedje.",
+        "answer": "Hij is een liedje aan het zingen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zingen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to help",
+    "infinitive": "helpen",
     "forms": {
       "present": {
-        "sentence": "I _____ my brother.",
-        "answer": "I'm helping my brother.",
-        "hint": "This is the present tense of 'help'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn broer.",
+        "answer": "Ik help mijn broer.",
+        "hint": "Dit is de tegenwoordige tijd van 'helpen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my brother.",
-        "answer": "I helped my brother.",
-        "hint": "This is the past tense of 'help'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn broer.",
+        "answer": "Ik hielp mijn broer.",
+        "hint": "Dit is de verleden tijd van 'helpen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my brother.",
-        "answer": "I am helping my brother.",
-        "hint": "Use 'aan het' + infinitive for 'help'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn broer.",
+        "answer": "Ik ben mijn broer aan het helpen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'helpen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to grab",
+    "infinitive": "pakken",
     "forms": {
       "present": {
-        sentence: "She _____ her bag."
-        "answer": "She's grabbing her bag.",
-        "hint": "This is the present tense of 'to grab'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ haar tas.",
+        "answer": "Ze pakt haar tas.",
+        "hint": "Dit is de tegenwoordige tijd van 'pakken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "She _____ her bag."
-        "answer": "She grabbed her bag.",
-        "hint": "This is the past tense of 'to grab'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ haar tas.",
+        "answer": "Ze pakte haar tas.",
+        "hint": "Dit is de verleden tijd van 'pakken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "She _____ her bag."
-        "answer": "She's packing her bag.",
-        "hint": "Use 'aan het' + infinitive for 'pakken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ haar tas.",
+        "answer": "Ze is haar tas aan het pakken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'pakken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to lay",
+    "infinitive": "leggen",
     "forms": {
       "present": {
-        "sentence": "I _____ the book on the table.",
-        "answer": "I put the book on the table.",
-        "hint": "This is the present tense of 'to lay'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ het boek op tafel.",
+        "answer": "Ik leg het boek op tafel.",
+        "hint": "Dit is de tegenwoordige tijd van 'leggen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ the book on the table.",
-        "answer": "I put the book on the table.",
-        "hint": "This is the past tense of 'to lay'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ het boek op tafel.",
+        "answer": "Ik legde het boek op tafel.",
+        "hint": "Dit is de verleden tijd van 'leggen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ the book on the table.",
-        "answer": "I am putting the book on the table.",
-        "hint": "Use 'aan het' + infinitive for 'leggen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ het boek op tafel.",
+        "answer": "Ik ben het boek op tafel aan het leggen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'leggen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to take",
+    "infinitive": "nemen",
     "forms": {
       "present": {
-        sentence: "He _____ the bus."
-        "answer": "He takes the bus.",
-        "hint": "This is the present tense of 'to take'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Hij _____ de bus.",
+        "answer": "Hij neemt de bus.",
+        "hint": "Dit is de tegenwoordige tijd van 'nemen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "He _____ the bus."
-        "answer": "He took the bus.",
-        "hint": "This is the past tense of 'to take'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Hij _____ de bus.",
+        "answer": "Hij nam de bus.",
+        "hint": "Dit is de verleden tijd van 'nemen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "He _____ the bus."
-        "answer": "He is taking the bus.",
-        "hint": "Use 'aan het' + infinitive for 'nemen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Hij _____ de bus.",
+        "answer": "Hij is de bus aan het nemen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'nemen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to bring",
+    "infinitive": "brengen",
     "forms": {
       "present": {
-        "sentence": "We _____ the children to school.",
-        "answer": "We take the children to school.",
-        "hint": "This is the present tense of 'to bring'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ de kinderen naar school.",
+        "answer": "We brengen de kinderen naar school.",
+        "hint": "Dit is de tegenwoordige tijd van 'brengen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "We _____ the children to school.",
-        "answer": "We took the children to school.",
-        "hint": "This is the past tense of 'bring'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ de kinderen naar school.",
+        "answer": "We brachten de kinderen naar school.",
+        "hint": "Dit is de verleden tijd van 'brengen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "We _____ the children to school.",
-        "answer": "We are taking the children to school.",
-        "hint": "Use 'aan het' + infinitive for 'breng'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ de kinderen naar school.",
+        "answer": "We zijn de kinderen naar school aan het brengen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'brengen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to dance",
+    "infinitive": "dansen",
     "forms": {
       "present": {
-        sentence: "They _____ at the party."
-        "answer": "She's dancing at the party.",
-        "hint": "This is the present tense of 'to dance'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ op het feest.",
+        "answer": "Ze danst op het feest.",
+        "hint": "Dit is de tegenwoordige tijd van 'dansen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "They _____ at the party."
-        "answer": "She danced at the party.",
-        "hint": "This is the past tense of 'to dance'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ op het feest.",
+        "answer": "Ze danste op het feest.",
+        "hint": "Dit is de verleden tijd van 'dansen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "They _____ at the party."
-        "answer": "She's dancing at the party.",
-        "hint": "Use 'aan het' + infinitive for 'dansen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ op het feest.",
+        "answer": "Ze is op het feest aan het dansen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'dansen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to stand",
+    "infinitive": "staan",
     "forms": {
       "present": {
-        "sentence": "I _____ got up early.",
-        "answer": "I get up early.",
-        "hint": "This is the present tense of 'to stand'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik sta vroeg op.",
+        "hint": "Dit is de tegenwoordige tijd van 'staan'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ got up early.",
-        "answer": "I got up early.",
-        "hint": "This is the past tense of 'to stand'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik stond vroeg op.",
+        "hint": "Dit is de verleden tijd van 'staan'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ got up early.",
-        "answer": "I'm getting up.",
-        "hint": "Use 'aan het' + infinitive for 'staan'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik ben aan het opstaan.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'staan'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to polish",
+    "infinitive": "poetsen",
     "forms": {
       "present": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I brush my teeth.",
-        "hint": "This is the present tense of 'to polish'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik poets mijn tanden.",
+        "hint": "Dit is de tegenwoordige tijd van 'poetsen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I brushed my teeth.",
-        "hint": "This is the past tense of 'to brush'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik poetste mijn tanden.",
+        "hint": "Dit is de verleden tijd van 'poetsen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I'm brushing my teeth.",
-        "hint": "Use 'aan het' + infinitive for 'schoon'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik ben mijn tanden aan het poetsen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'poetsen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to make",
+    "infinitive": "maken",
     "forms": {
       "present": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I make breakfast for my family.",
-        "hint": "This is the present tense of 'to make'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik maak ontbijt voor mijn gezin.",
+        "hint": "Dit is de tegenwoordige tijd van 'maken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I made breakfast for my family.",
-        "hint": "This is the past tense of 'to make'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik maakte ontbijt voor mijn gezin.",
+        "hint": "Dit is de verleden tijd van 'maken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I am making breakfast for my family.",
-        "hint": "Use 'aan het' + infinitive for 'maken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik ben ontbijt aan het maken voor mijn gezin.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'maken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to eat",
+    "infinitive": "eten",
     "forms": {
       "present": {
-        sentence: "We _____ together at the table."
-        "answer": "We eat together at the table.",
-        "hint": "This is the present tense of 'to eat'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We eten samen aan tafel.",
+        "hint": "Dit is de tegenwoordige tijd van 'eten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ together at the table."
-        "answer": "We ate together at the table.",
-        "hint": "This is the past tense of 'to eat'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We aten samen aan tafel.",
+        "hint": "Dit is de verleden tijd van 'eten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ together at the table."
-        "answer": "We are eating at the table.",
-        "hint": "Use 'aan het' + infinitive for 'eten'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We zijn aan het eten aan tafel.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'eten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to attract",
+    "infinitive": "aantrekken",
     "forms": {
       "present": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children are putting on their shoes.",
-        "hint": "This is the present tense of 'to attract'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen trekken hun schoenen aan.",
+        "hint": "Dit is de tegenwoordige tijd van 'aantrekken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children put on their shoes.",
-        "hint": "This is the past tense of 'to attract'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen trokken hun schoenen aan.",
+        "hint": "Dit is de verleden tijd van 'aantrekken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children are putting on their shoes.",
-        "hint": "Use 'aan het' + infinitive for 'to put on'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen zijn hun schoenen aan het aantrekken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'aantrekken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cycle",
+    "infinitive": "fietsen",
     "forms": {
       "present": {
-        sentence: "We _____ to school."
-        "answer": "We cycle to school.",
-        "hint": "This is the present tense of 'bicycles'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ naar school.",
+        "answer": "We fietsen naar school.",
+        "hint": "Dit is de tegenwoordige tijd van 'fietsen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ to school."
-        "answer": "We cycled to school.",
-        "hint": "This is the past tense of 'bicycles'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ naar school.",
+        "answer": "We fietsten naar school.",
+        "hint": "Dit is de verleden tijd van 'fietsen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ to school."
-        "answer": "We are cycling to school.",
-        "hint": "Use 'aan het' + infinitive for 'fietsen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ naar school.",
+        "answer": "We zijn aan het fietsen naar school.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'fietsen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to wave",
+    "infinitive": "zwaaien",
     "forms": {
       "present": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I'm waving to the kids at the gate.",
-        "hint": "This is the present tense of 'to wave'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik zwaai naar de kinderen bij het hek.",
+        "hint": "Dit is de tegenwoordige tijd van 'zwaaien'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I waved to the kids at the gate.",
-        "hint": "This is the past tense of 'to wave'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik zwaaide naar de kinderen bij het hek.",
+        "hint": "Dit is de verleden tijd van 'zwaaien'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I'm waving at the children.",
-        "hint": "Use 'aan het' + infinitive for 'waving'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik ben naar de kinderen aan het zwaaien.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zwaaien'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drive",
+    "infinitive": "rijden",
     "forms": {
       "present": {
-        "sentence": "I _____ to work.",
-        "answer": "I drive to work.",
-        "hint": "This is the present tense of 'to drive'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik rijd naar mijn werk.",
+        "hint": "Dit is de tegenwoordige tijd van 'rijden'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to work.",
-        "answer": "I drove to work.",
-        "hint": "This is the past tense of 'to drive'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik reed naar mijn werk.",
+        "hint": "Dit is de verleden tijd van 'rijden'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to work.",
-        "answer": "I'm driving to work.",
-        "hint": "Use 'aan het' + infinitive for 'rijden'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik ben aan het rijden naar mijn werk.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rijden'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to start",
+    "infinitive": "starten",
     "forms": {
       "present": {
-        sentence: "I _____ my computer."
-        "answer": "I start my computer.",
-        "hint": "This is the present tense of 'to start'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik start mijn computer.",
+        "hint": "Dit is de tegenwoordige tijd van 'starten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "I _____ my computer."
-        "answer": "I started my computer.",
-        "hint": "This is the past tense of 'to start'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik startte mijn computer.",
+        "hint": "Dit is de verleden tijd van 'starten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "I _____ my computer."
-        "answer": "I'm starting my computer.",
-        "hint": "Use 'aan het' + infinitive for 'to start'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik ben mijn computer aan het starten.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'starten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to read",
+    "infinitive": "lezen",
     "forms": {
       "present": {
-        "sentence": "I _____ my emails.",
-        "answer": "I read my emails.",
-        "hint": "This is the present tense of 'to read'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik lees mijn e-mails.",
+        "hint": "Dit is de tegenwoordige tijd van 'lezen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my emails.",
-        "answer": "I read my emails.",
-        "hint": "This is the past tense of 'to read'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik las mijn e-mails.",
+        "hint": "Dit is de verleden tijd van 'lezen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my emails.",
-        "answer": "I'm reading my emails.",
-        "hint": "Use 'aan het' + infinitive for 'lezen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik ben mijn e-mails aan het lezen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lezen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to ask",
+    "infinitive": "vragen",
     "forms": {
       "present": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague is asking for help.",
-        "hint": "This is the present tense of 'to ask'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega vraagt om hulp.",
+        "hint": "Dit is de tegenwoordige tijd van 'vragen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague asked for help.",
-        "hint": "This is the past tense of 'to ask'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega vroeg om hulp.",
+        "hint": "Dit is de verleden tijd van 'vragen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague is asking for help.",
-        "hint": "Use 'aan het' + infinitive for 'vragen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega is om hulp aan het vragen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'vragen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to work",
+    "infinitive": "werken",
     "forms": {
       "present": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We are working on a new project.",
-        "hint": "This is the present tense of 'werken'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We werken aan een nieuw project.",
+        "hint": "Dit is de tegenwoordige tijd van 'werken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We were working on a new project.",
-        "hint": "This is the past tense of 'werken'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We werkten aan een nieuw project.",
+        "hint": "Dit is de verleden tijd van 'werken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We are working on a new project.",
-        "hint": "Use 'aan het' + infinitive for 'werken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We zijn aan het werken aan een nieuw project.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'werken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drink",
+    "infinitive": "drinken",
     "forms": {
       "present": {
-        sentence: "We _____ coffee."
-        "answer": "We drink coffee.",
-        "hint": "This is the present tense of 'drink'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ koffie.",
+        "answer": "We drinken koffie.",
+        "hint": "Dit is de tegenwoordige tijd van 'drinken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ coffee."
-        "answer": "We drank coffee.",
-        "hint": "This is the past tense of 'drink'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ koffie.",
+        "answer": "We dronken koffie.",
+        "hint": "Dit is de verleden tijd van 'drinken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ coffee."
-        "answer": "We are drinking coffee.",
-        "hint": "Use 'aan het' + infinitive for 'drink'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ koffie.",
+        "answer": "We zijn koffie aan het drinken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'drinken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to call",
+    "infinitive": "bellen",
     "forms": {
       "present": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I'm calling a customer.",
-        "hint": "This is the present tense of 'to call'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik bel met een klant.",
+        "hint": "Dit is de tegenwoordige tijd van 'bellen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I was calling a customer.",
-        "hint": "This is the past tense of 'to call'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik belde met een klant.",
+        "hint": "Dit is de verleden tijd van 'bellen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I'm on the phone with a customer.",
-        "hint": "Use 'aan het' + infinitive for 'bellen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik ben met een klant aan het bellen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'bellen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to come",
+    "infinitive": "komen",
     "forms": {
       "present": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss is coming over.",
-        "hint": "This is the present tense of 'to come'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas komt langs.",
+        "hint": "Dit is de tegenwoordige tijd van 'komen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss came by.",
-        "hint": "This is the past tense of 'to come'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas kwam langs.",
+        "hint": "Dit is de verleden tijd van 'komen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss is coming by.",
-        "hint": "Use 'aan het' + infinitive for 'komen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas is langs aan het komen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'komen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to explain",
+    "infinitive": "uitleggen",
     "forms": {
       "present": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I'll explain the schedule.",
-        "hint": "This is the present tense of 'to explain'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik leg de planning uit.",
+        "hint": "Dit is de tegenwoordige tijd van 'uitleggen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I explained the schedule.",
-        "hint": "This is the past tense of 'to explain'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik legde de planning uit.",
+        "hint": "Dit is de verleden tijd van 'uitleggen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I'm explaining the schedule.",
-        "hint": "Use 'aan het' + infinitive for 'uitgelegd'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik ben de planning aan het uitleggen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'uitleggen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to write",
+    "infinitive": "schrijven",
     "forms": {
       "present": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I write in my diary.",
-        "hint": "This is the present tense of 'to write'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik schrijf in mijn agenda.",
+        "hint": "Dit is de tegenwoordige tijd van 'schrijven'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I wrote in my diary.",
-        "hint": "This is the past tense of 'to write'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik schreef in mijn agenda.",
+        "hint": "Dit is de verleden tijd van 'schrijven'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I'm writing in my diary.",
-        "hint": "Use 'aan het' + infinitive for 'schrijven'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik ben in mijn agenda aan het schrijven.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'schrijven'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to clean up",
+    "infinitive": "opruimen",
     "forms": {
       "present": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I'm cleaning my desk.",
-        "hint": "This is the present tense of 'to tidy up'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ruim mijn bureau op.",
+        "hint": "Dit is de tegenwoordige tijd van 'opruimen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I cleaned up my desk.",
-        "hint": "This is the past tense of 'to tidy up'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ruimde mijn bureau op.",
+        "hint": "Dit is de verleden tijd van 'opruimen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I'm cleaning up my desk.",
-        "hint": "Use 'aan het' + infinitive for 'tidy up'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ben mijn bureau aan het opruimen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'opruimen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to close",
+    "infinitive": "afsluiten",
     "forms": {
       "present": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I'm shutting down my computer.",
-        "hint": "This is the present tense of 'to close'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik sluit mijn computer af.",
+        "hint": "Dit is de tegenwoordige tijd van 'afsluiten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I shut down my computer.",
-        "hint": "This is the past tense of 'to close'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik sloot mijn computer af.",
+        "hint": "Dit is de verleden tijd van 'afsluiten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I'm shutting down my computer.",
-        "hint": "Use 'aan het' + infinitive for 'afsluiten'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik ben mijn computer aan het afsluiten.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'afsluiten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drive",
+    "infinitive": "rijden",
     "forms": {
       "present": {
-        "sentence": "I _____ home.",
-        "answer": "I'm driving home.",
-        "hint": "This is the present tense of 'to drive'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik rijd naar huis.",
+        "hint": "Dit is de tegenwoordige tijd van 'rijden'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ home.",
-        "answer": "I was driving home.",
-        "hint": "This is the past tense of 'to drive'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik reed naar huis.",
+        "hint": "Dit is de verleden tijd van 'rijden'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ home.",
-        "answer": "I'm driving home.",
-        "hint": "Use 'aan het' + infinitive for 'rijden'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik ben naar huis aan het rijden.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rijden'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to walk",
+    "infinitive": "lopen",
     "forms": {
       "present": {
-        "sentence": "I _____ to the park.",
-        "answer": "I'm walking to the park.",
-        "hint": "This is the present tense of 'to walk'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar het park.",
+        "answer": "Ik loop naar het park.",
+        "hint": "Dit is de tegenwoordige tijd van 'lopen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to the park.",
-        "answer": "I walked to the park.",
-        "hint": "This is the past tense of 'to walk'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar het park.",
+        "answer": "Ik liep naar het park.",
+        "hint": "Dit is de verleden tijd van 'lopen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to the park.",
-        "answer": "I'm walking to the park.",
-        "hint": "Use 'aan het' + infinitive for 'walking'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar het park.",
+        "answer": "Ik ben naar het park aan het lopen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lopen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to sleep",
+    "infinitive": "slapen",
     "forms": {
       "present": {
-        "sentence": "I _____ asked.",
-        "answer": "I sleep early.",
-        "hint": "This is the present tense of 'to sleep'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ vroeg.",
+        "answer": "Ik slaap vroeg.",
+        "hint": "Dit is de tegenwoordige tijd van 'slapen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ asked.",
-        "answer": "I slept early.",
-        "hint": "This is the past tense of 'to sleep'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ vroeg.",
+        "answer": "Ik sliep vroeg.",
+        "hint": "Dit is de verleden tijd van 'slapen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ asked.",
-        "answer": "I'm going to bed early.",
-        "hint": "Use 'aan het' + infinitive for 'to sleep'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ vroeg.",
+        "answer": "Ik ben vroeg aan het slapen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'slapen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to look",
+    "infinitive": "kijken",
     "forms": {
       "present": {
-        sentence: "We _____ to the movies."
-        "answer": "We're watching the movie.",
-        "hint": "This is the present tense of 'to look'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ naar de film.",
+        "answer": "We kijken naar de film.",
+        "hint": "Dit is de tegenwoordige tijd van 'kijken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ to the movies."
-        "answer": "We watched the movie.",
-        "hint": "This is the past tense of 'to look'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ naar de film.",
+        "answer": "We keken naar de film.",
+        "hint": "Dit is de verleden tijd van 'kijken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ to the movies."
-        "answer": "We are watching the movie.",
-        "hint": "Use 'aan het' + infinitive for 'kijken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ naar de film.",
+        "answer": "We zijn naar de film aan het kijken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'kijken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to listen",
+    "infinitive": "luisteren",
     "forms": {
       "present": {
-        "sentence": "I _____ to music.",
-        "answer": "I'm listening to music.",
-        "hint": "This is the present tense of 'listen'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar muziek.",
+        "answer": "Ik luister naar muziek.",
+        "hint": "Dit is de tegenwoordige tijd van 'luisteren'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to music.",
-        "answer": "I was listening to music.",
-        "hint": "This is the past tense of 'listen'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar muziek.",
+        "answer": "Ik luisterde naar muziek.",
+        "hint": "Dit is de verleden tijd van 'luisteren'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to music.",
-        "answer": "I'm listening to music.",
-        "hint": "Use 'aan het' + infinitive for 'to listen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar muziek.",
+        "answer": "Ik ben naar muziek aan het luisteren.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'luisteren'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to swim",
+    "infinitive": "zwemmen",
     "forms": {
       "present": {
-        sentence: "He _____ in the pool."
-        "answer": "He is swimming in the pool.",
-        "hint": "This is the present tense of 'to swim'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Hij _____ in het zwembad.",
+        "answer": "Hij zwemt in het zwembad.",
+        "hint": "Dit is de tegenwoordige tijd van 'zwemmen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "He _____ in the pool."
-        "answer": "He swam in the pool.",
-        "hint": "This is the past tense of 'to swim'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Hij _____ in het zwembad.",
+        "answer": "Hij zwom in het zwembad.",
+        "hint": "Dit is de verleden tijd van 'zwemmen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "He _____ in the pool."
-        "answer": "He is swimming in the pool.",
-        "hint": "Use 'aan het' + infinitive for 'swimming'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Hij _____ in het zwembad.",
+        "answer": "Hij is in het zwembad aan het zwemmen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zwemmen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to run",
+    "infinitive": "rennen",
     "forms": {
       "present": {
-        sentence: "They _____ fast."
-        "answer": "She runs fast.",
-        "hint": "This is the present tense of 'to run'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ snel.",
+        "answer": "Ze rent snel.",
+        "hint": "Dit is de tegenwoordige tijd van 'rennen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "They _____ fast."
-        "answer": "She ran fast.",
-        "hint": "This is the past tense of 'to run'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ snel.",
+        "answer": "Ze rende snel.",
+        "hint": "Dit is de verleden tijd van 'rennen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "They _____ fast."
-        "answer": "She is running fast.",
-        "hint": "Use 'aan het' + infinitive for 'running'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ snel.",
+        "answer": "Ze is snel aan het rennen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rennen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to learn",
+    "infinitive": "leren",
     "forms": {
       "present": {
-        "sentence": "I _____ Dutch.",
-        "answer": "I'm learning Dutch.",
-        "hint": "This is the present tense of 'to learn'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ Nederlands.",
+        "answer": "Ik leer Nederlands.",
+        "hint": "Dit is de tegenwoordige tijd van 'leren'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ Dutch.",
-        "answer": "I learned Dutch.",
-        "hint": "This is the past tense of 'to learn'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ Nederlands.",
+        "answer": "Ik leerde Nederlands.",
+        "hint": "Dit is de verleden tijd van 'leren'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ Dutch.",
-        "answer": "I am learning Dutch.",
-        "hint": "Use 'aan het' + infinitive for 'leren'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ Nederlands.",
+        "answer": "Ik ben Nederlands aan het leren.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'leren'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to study",
+    "infinitive": "studeren",
     "forms": {
       "present": {
-        sentence: "I _____ for my exam."
-        "answer": "I'm studying for my exam.",
-        "hint": "This is the present tense of 'to study'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ voor mijn examen.",
+        "answer": "Ik studeer voor mijn examen.",
+        "hint": "Dit is de tegenwoordige tijd van 'studeren'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "I _____ for my exam."
-        "answer": "I studied for my exam.",
-        "hint": "This is the past tense of 'to study'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ voor mijn examen.",
+        "answer": "Ik studeerde voor mijn examen.",
+        "hint": "Dit is de verleden tijd van 'studeren'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "I _____ for my exam."
-        "answer": "I'm studying for my exam.",
-        "hint": "Use 'aan het' + infinitive for 'studying'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ voor mijn examen.",
+        "answer": "Ik ben voor mijn examen aan het studeren.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'studeren'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cook",
+    "infinitive": "koken",
     "forms": {
       "present": {
-        "sentence": "My mother _____ pasta.",
-        "answer": "My mother cooks pasta.",
-        "hint": "This is the present tense of 'to cook'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn moeder _____ pasta.",
+        "answer": "Mijn moeder kookt pasta.",
+        "hint": "Dit is de tegenwoordige tijd van 'koken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My mother _____ pasta.",
-        "answer": "My mother cooked pasta.",
-        "hint": "This is the past tense of 'to cook'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn moeder _____ pasta.",
+        "answer": "Mijn moeder kookte pasta.",
+        "hint": "Dit is de verleden tijd van 'koken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My mother _____ pasta.",
-        "answer": "My mother is cooking pasta.",
-        "hint": "Use 'aan het' + infinitive for 'kooken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn moeder _____ pasta.",
+        "answer": "Mijn moeder is pasta aan het koken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'koken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to shop",
+    "infinitive": "winkelen",
     "forms": {
       "present": {
-        sentence: "We _____ in town."
-        "answer": "We're shopping in town.",
-        "hint": "This is the present tense of 'shopping'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ in de stad.",
+        "answer": "We winkelen in de stad.",
+        "hint": "Dit is de tegenwoordige tijd van 'winkelen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ in town."
-        "answer": "We went shopping in town.",
-        "hint": "This is the past tense of 'shopping'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ in de stad.",
+        "answer": "We winkelden in de stad.",
+        "hint": "Dit is de verleden tijd van 'winkelen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ in town."
-        "answer": "We are shopping in town.",
-        "hint": "Use 'aan het' + infinitive for 'winkelen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ in de stad.",
+        "answer": "We zijn in de stad aan het winkelen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'winkelen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to play",
+    "infinitive": "spelen",
     "forms": {
       "present": {
-        sentence: "The children _____ outside."
-        "answer": "The children are playing outside.",
-        "hint": "This is the present tense of 'to play'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De kinderen _____ buiten.",
+        "answer": "De kinderen spelen buiten.",
+        "hint": "Dit is de tegenwoordige tijd van 'spelen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "The children _____ outside."
-        "answer": "The children were playing outside.",
-        "hint": "This is the past tense of 'to play'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De kinderen _____ buiten.",
+        "answer": "De kinderen speelden buiten.",
+        "hint": "Dit is de verleden tijd van 'spelen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "The children _____ outside."
-        "answer": "The children are playing outside.",
-        "hint": "Use 'aan het' + infinitive for 'spelen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De kinderen _____ buiten.",
+        "answer": "De kinderen zijn buiten aan het spelen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'spelen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cry",
+    "infinitive": "huilen",
     "forms": {
       "present": {
-        "sentence": "The baby _____ hard.",
-        "answer": "The baby is crying loudly.",
-        "hint": "This is the present tense of 'crying'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De baby _____ hard.",
+        "answer": "De baby huilt hard.",
+        "hint": "Dit is de tegenwoordige tijd van 'huilen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "The baby _____ hard.",
-        "answer": "The baby was crying loudly.",
-        "hint": "This is the past tense of 'cry'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De baby _____ hard.",
+        "answer": "De baby huilde hard.",
+        "hint": "Dit is de verleden tijd van 'huilen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "The baby _____ hard.",
-        "answer": "The baby is crying hard.",
-        "hint": "Use 'aan het' + infinitive for 'crying'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De baby _____ hard.",
+        "answer": "De baby is hard aan het huilen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'huilen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    infinitive: "to laugh",
+    "infinitive": "lachen",
     "forms": {
       "present": {
-        "sentence": "They _____ for the joke.",
-        "answer": "She laughs at the joke.",
-        "hint": "This is the present tense of 'laugh'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ om de grap.",
+        "answer": "Ze lacht om de grap.",
+        "hint": "Dit is de tegenwoordige tijd van 'lachen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "They _____ for the joke.",
-        "answer": "She laughed at the joke.",
-        "hint": "This is the past tense of 'laugh'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ om de grap.",
+        "answer": "Ze lachte om de grap.",
+        "hint": "Dit is de verleden tijd van 'lachen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "They _____ for the joke.",
-        "answer": "She's laughing at the joke.",
-        "hint": "Use 'aan het' + infinitive for 'laughing'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ om de grap.",
+        "answer": "Ze is om de grap aan het lachen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lachen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to sing",
+    "infinitive": "zingen",
     "forms": {
       "present": {
-        "sentence": "He _____ a song.",
-        "answer": "He's singing a song.",
-        "hint": "This is the present tense of 'to sing'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Hij _____ een liedje.",
+        "answer": "Hij zingt een liedje.",
+        "hint": "Dit is de tegenwoordige tijd van 'zingen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "He _____ a song.",
-        "answer": "He sang a song.",
-        "hint": "This is the past tense of 'to sing'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Hij _____ een liedje.",
+        "answer": "Hij zong een liedje.",
+        "hint": "Dit is de verleden tijd van 'zingen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "He _____ a song.",
-        "answer": "He is singing a song.",
-        "hint": "Use 'aan het' + infinitive for 'zingen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Hij _____ een liedje.",
+        "answer": "Hij is een liedje aan het zingen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zingen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to help",
+    "infinitive": "helpen",
     "forms": {
       "present": {
-        "sentence": "I _____ my brother.",
-        "answer": "I'm helping my brother.",
-        "hint": "This is the present tense of 'help'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn broer.",
+        "answer": "Ik help mijn broer.",
+        "hint": "Dit is de tegenwoordige tijd van 'helpen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my brother.",
-        "answer": "I helped my brother.",
-        "hint": "This is the past tense of 'help'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn broer.",
+        "answer": "Ik hielp mijn broer.",
+        "hint": "Dit is de verleden tijd van 'helpen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my brother.",
-        "answer": "I am helping my brother.",
-        "hint": "Use 'aan het' + infinitive for 'help'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn broer.",
+        "answer": "Ik ben mijn broer aan het helpen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'helpen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to grab",
+    "infinitive": "pakken",
     "forms": {
       "present": {
-        sentence: "She _____ her bag."
-        "answer": "She's grabbing her bag.",
-        "hint": "This is the present tense of 'to grab'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ haar tas.",
+        "answer": "Ze pakt haar tas.",
+        "hint": "Dit is de tegenwoordige tijd van 'pakken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "She _____ her bag."
-        "answer": "She grabbed her bag.",
-        "hint": "This is the past tense of 'to grab'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ haar tas.",
+        "answer": "Ze pakte haar tas.",
+        "hint": "Dit is de verleden tijd van 'pakken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "She _____ her bag."
-        "answer": "She's packing her bag.",
-        "hint": "Use 'aan het' + infinitive for 'pakken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ haar tas.",
+        "answer": "Ze is haar tas aan het pakken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'pakken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to lay",
+    "infinitive": "leggen",
     "forms": {
       "present": {
-        "sentence": "I _____ the book on the table.",
-        "answer": "I put the book on the table.",
-        "hint": "This is the present tense of 'to lay'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ het boek op tafel.",
+        "answer": "Ik leg het boek op tafel.",
+        "hint": "Dit is de tegenwoordige tijd van 'leggen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ the book on the table.",
-        "answer": "I put the book on the table.",
-        "hint": "This is the past tense of 'to lay'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ het boek op tafel.",
+        "answer": "Ik legde het boek op tafel.",
+        "hint": "Dit is de verleden tijd van 'leggen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ the book on the table.",
-        "answer": "I am putting the book on the table.",
-        "hint": "Use 'aan het' + infinitive for 'leggen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ het boek op tafel.",
+        "answer": "Ik ben het boek op tafel aan het leggen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'leggen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to take",
+    "infinitive": "nemen",
     "forms": {
       "present": {
-        sentence: "He _____ the bus."
-        "answer": "He takes the bus.",
-        "hint": "This is the present tense of 'to take'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Hij _____ de bus.",
+        "answer": "Hij neemt de bus.",
+        "hint": "Dit is de tegenwoordige tijd van 'nemen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "He _____ the bus."
-        "answer": "He took the bus.",
-        "hint": "This is the past tense of 'to take'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Hij _____ de bus.",
+        "answer": "Hij nam de bus.",
+        "hint": "Dit is de verleden tijd van 'nemen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "He _____ the bus."
-        "answer": "He is taking the bus.",
-        "hint": "Use 'aan het' + infinitive for 'nemen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Hij _____ de bus.",
+        "answer": "Hij is de bus aan het nemen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'nemen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to bring",
+    "infinitive": "brengen",
     "forms": {
       "present": {
-        "sentence": "We _____ the children to school.",
-        "answer": "We take the children to school.",
-        "hint": "This is the present tense of 'to bring'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ de kinderen naar school.",
+        "answer": "We brengen de kinderen naar school.",
+        "hint": "Dit is de tegenwoordige tijd van 'brengen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "We _____ the children to school.",
-        "answer": "We took the children to school.",
-        "hint": "This is the past tense of 'bring'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ de kinderen naar school.",
+        "answer": "We brachten de kinderen naar school.",
+        "hint": "Dit is de verleden tijd van 'brengen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "We _____ the children to school.",
-        "answer": "We are taking the children to school.",
-        "hint": "Use 'aan het' + infinitive for 'breng'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ de kinderen naar school.",
+        "answer": "We zijn de kinderen naar school aan het brengen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'brengen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to dance",
+    "infinitive": "dansen",
     "forms": {
       "present": {
-        sentence: "They _____ at the party."
-        "answer": "She's dancing at the party.",
-        "hint": "This is the present tense of 'to dance'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ze _____ op het feest.",
+        "answer": "Ze danst op het feest.",
+        "hint": "Dit is de tegenwoordige tijd van 'dansen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "They _____ at the party."
-        "answer": "She danced at the party.",
-        "hint": "This is the past tense of 'to dance'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ze _____ op het feest.",
+        "answer": "Ze danste op het feest.",
+        "hint": "Dit is de verleden tijd van 'dansen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "They _____ at the party."
-        "answer": "She's dancing at the party.",
-        "hint": "Use 'aan het' + infinitive for 'dansen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ze _____ op het feest.",
+        "answer": "Ze is op het feest aan het dansen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'dansen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to stand",
+    "infinitive": "staan",
     "forms": {
       "present": {
-        "sentence": "I _____ got up early.",
-        "answer": "I get up early.",
-        "hint": "This is the present tense of 'to stand'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik sta vroeg op.",
+        "hint": "Dit is de tegenwoordige tijd van 'staan'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ got up early.",
-        "answer": "I got up early.",
-        "hint": "This is the past tense of 'to stand'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik stond vroeg op.",
+        "hint": "Dit is de verleden tijd van 'staan'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ got up early.",
-        "answer": "I'm getting up.",
-        "hint": "Use 'aan het' + infinitive for 'staan'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ vroeg op.",
+        "answer": "Ik ben aan het opstaan.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'staan'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to polish",
+    "infinitive": "poetsen",
     "forms": {
       "present": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I brush my teeth.",
-        "hint": "This is the present tense of 'to polish'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik poets mijn tanden.",
+        "hint": "Dit is de tegenwoordige tijd van 'poetsen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I brushed my teeth.",
-        "hint": "This is the past tense of 'to brush'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik poetste mijn tanden.",
+        "hint": "Dit is de verleden tijd van 'poetsen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my teeth.",
-        "answer": "I'm brushing my teeth.",
-        "hint": "Use 'aan het' + infinitive for 'schoon'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn tanden.",
+        "answer": "Ik ben mijn tanden aan het poetsen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'poetsen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to make",
+    "infinitive": "maken",
     "forms": {
       "present": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I make breakfast for my family.",
-        "hint": "This is the present tense of 'to make'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik maak ontbijt voor mijn gezin.",
+        "hint": "Dit is de tegenwoordige tijd van 'maken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I made breakfast for my family.",
-        "hint": "This is the past tense of 'to make'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik maakte ontbijt voor mijn gezin.",
+        "hint": "Dit is de verleden tijd van 'maken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ breakfast for my family.",
-        "answer": "I am making breakfast for my family.",
-        "hint": "Use 'aan het' + infinitive for 'maken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ ontbijt voor mijn gezin.",
+        "answer": "Ik ben ontbijt aan het maken voor mijn gezin.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'maken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to eat",
+    "infinitive": "eten",
     "forms": {
       "present": {
-        sentence: "We _____ together at the table."
-        "answer": "We eat together at the table.",
-        "hint": "This is the present tense of 'to eat'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We eten samen aan tafel.",
+        "hint": "Dit is de tegenwoordige tijd van 'eten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ together at the table."
-        "answer": "We ate together at the table.",
-        "hint": "This is the past tense of 'to eat'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We aten samen aan tafel.",
+        "hint": "Dit is de verleden tijd van 'eten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ together at the table."
-        "answer": "We are eating at the table.",
-        "hint": "Use 'aan het' + infinitive for 'eten'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ samen aan tafel.",
+        "answer": "We zijn aan het eten aan tafel.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'eten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to attract",
+    "infinitive": "aantrekken",
     "forms": {
       "present": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children are putting on their shoes.",
-        "hint": "This is the present tense of 'to attract'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen trekken hun schoenen aan.",
+        "hint": "Dit is de tegenwoordige tijd van 'aantrekken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children put on their shoes.",
-        "hint": "This is the past tense of 'to attract'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen trokken hun schoenen aan.",
+        "hint": "Dit is de verleden tijd van 'aantrekken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "The children _____ their shoes on."
-        "answer": "The children are putting on their shoes.",
-        "hint": "Use 'aan het' + infinitive for 'to put on'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "De kinderen _____ hun schoenen aan.",
+        "answer": "De kinderen zijn hun schoenen aan het aantrekken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'aantrekken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to cycle",
+    "infinitive": "fietsen",
     "forms": {
       "present": {
-        sentence: "We _____ to school."
-        "answer": "We cycle to school.",
-        "hint": "This is the present tense of 'bicycles'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ naar school.",
+        "answer": "We fietsen naar school.",
+        "hint": "Dit is de tegenwoordige tijd van 'fietsen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ to school."
-        "answer": "We cycled to school.",
-        "hint": "This is the past tense of 'bicycles'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ naar school.",
+        "answer": "We fietsten naar school.",
+        "hint": "Dit is de verleden tijd van 'fietsen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ to school."
-        "answer": "We are cycling to school.",
-        "hint": "Use 'aan het' + infinitive for 'fietsen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ naar school.",
+        "answer": "We zijn aan het fietsen naar school.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'fietsen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to wave",
+    "infinitive": "zwaaien",
     "forms": {
       "present": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I'm waving to the kids at the gate.",
-        "hint": "This is the present tense of 'to wave'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik zwaai naar de kinderen bij het hek.",
+        "hint": "Dit is de tegenwoordige tijd van 'zwaaien'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I waved to the kids at the gate.",
-        "hint": "This is the past tense of 'to wave'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik zwaaide naar de kinderen bij het hek.",
+        "hint": "Dit is de verleden tijd van 'zwaaien'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to the children at the gate.",
-        "answer": "I'm waving at the children.",
-        "hint": "Use 'aan het' + infinitive for 'waving'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar de kinderen bij het hek.",
+        "answer": "Ik ben naar de kinderen aan het zwaaien.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'zwaaien'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drive",
+    "infinitive": "rijden",
     "forms": {
       "present": {
-        "sentence": "I _____ to work.",
-        "answer": "I drive to work.",
-        "hint": "This is the present tense of 'to drive'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik rijd naar mijn werk.",
+        "hint": "Dit is de tegenwoordige tijd van 'rijden'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ to work.",
-        "answer": "I drove to work.",
-        "hint": "This is the past tense of 'to drive'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik reed naar mijn werk.",
+        "hint": "Dit is de verleden tijd van 'rijden'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ to work.",
-        "answer": "I'm driving to work.",
-        "hint": "Use 'aan het' + infinitive for 'rijden'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar mijn werk.",
+        "answer": "Ik ben aan het rijden naar mijn werk.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rijden'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to start",
+    "infinitive": "starten",
     "forms": {
       "present": {
-        sentence: "I _____ my computer."
-        "answer": "I start my computer.",
-        "hint": "This is the present tense of 'to start'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik start mijn computer.",
+        "hint": "Dit is de tegenwoordige tijd van 'starten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "I _____ my computer."
-        "answer": "I started my computer.",
-        "hint": "This is the past tense of 'to start'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik startte mijn computer.",
+        "hint": "Dit is de verleden tijd van 'starten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "I _____ my computer."
-        "answer": "I'm starting my computer.",
-        "hint": "Use 'aan het' + infinitive for 'to start'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn computer.",
+        "answer": "Ik ben mijn computer aan het starten.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'starten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to read",
+    "infinitive": "lezen",
     "forms": {
       "present": {
-        "sentence": "I _____ my emails.",
-        "answer": "I read my emails.",
-        "hint": "This is the present tense of 'to read'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik lees mijn e-mails.",
+        "hint": "Dit is de tegenwoordige tijd van 'lezen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ my emails.",
-        "answer": "I read my emails.",
-        "hint": "This is the past tense of 'to read'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik las mijn e-mails.",
+        "hint": "Dit is de verleden tijd van 'lezen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ my emails.",
-        "answer": "I'm reading my emails.",
-        "hint": "Use 'aan het' + infinitive for 'lezen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn e-mails.",
+        "answer": "Ik ben mijn e-mails aan het lezen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'lezen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to ask",
+    "infinitive": "vragen",
     "forms": {
       "present": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague is asking for help.",
-        "hint": "This is the present tense of 'to ask'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega vraagt om hulp.",
+        "hint": "Dit is de tegenwoordige tijd van 'vragen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague asked for help.",
-        "hint": "This is the past tense of 'to ask'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega vroeg om hulp.",
+        "hint": "Dit is de verleden tijd van 'vragen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My colleague _____ for help.",
-        "answer": "My colleague is asking for help.",
-        "hint": "Use 'aan het' + infinitive for 'vragen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn collega _____ om hulp.",
+        "answer": "Mijn collega is om hulp aan het vragen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'vragen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to work",
+    "infinitive": "werken",
     "forms": {
       "present": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We are working on a new project.",
-        "hint": "This is the present tense of 'werken'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We werken aan een nieuw project.",
+        "hint": "Dit is de tegenwoordige tijd van 'werken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We were working on a new project.",
-        "hint": "This is the past tense of 'werken'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We werkten aan een nieuw project.",
+        "hint": "Dit is de verleden tijd van 'werken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "We _____ on a new project.",
-        "answer": "We are working on a new project.",
-        "hint": "Use 'aan het' + infinitive for 'werken'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ aan een nieuw project.",
+        "answer": "We zijn aan het werken aan een nieuw project.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'werken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drink",
+    "infinitive": "drinken",
     "forms": {
       "present": {
-        sentence: "We _____ coffee."
-        "answer": "We drink coffee.",
-        "hint": "This is the present tense of 'drink'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "We _____ koffie.",
+        "answer": "We drinken koffie.",
+        "hint": "Dit is de tegenwoordige tijd van 'drinken'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        sentence: "We _____ coffee."
-        "answer": "We drank coffee.",
-        "hint": "This is the past tense of 'drink'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "We _____ koffie.",
+        "answer": "We dronken koffie.",
+        "hint": "Dit is de verleden tijd van 'drinken'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        sentence: "We _____ coffee."
-        "answer": "We are drinking coffee.",
-        "hint": "Use 'aan het' + infinitive for 'drink'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "We _____ koffie.",
+        "answer": "We zijn koffie aan het drinken.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'drinken'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to call",
+    "infinitive": "bellen",
     "forms": {
       "present": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I'm calling a customer.",
-        "hint": "This is the present tense of 'to call'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik bel met een klant.",
+        "hint": "Dit is de tegenwoordige tijd van 'bellen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I was calling a customer.",
-        "hint": "This is the past tense of 'to call'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik belde met een klant.",
+        "hint": "Dit is de verleden tijd van 'bellen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ with a customer.",
-        "answer": "I'm on the phone with a customer.",
-        "hint": "Use 'aan het' + infinitive for 'bellen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ met een klant.",
+        "answer": "Ik ben met een klant aan het bellen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'bellen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to come",
+    "infinitive": "komen",
     "forms": {
       "present": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss is coming over.",
-        "hint": "This is the present tense of 'to come'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas komt langs.",
+        "hint": "Dit is de tegenwoordige tijd van 'komen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss came by.",
-        "hint": "This is the past tense of 'to come'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas kwam langs.",
+        "hint": "Dit is de verleden tijd van 'komen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "My boss ______ by.",
-        "answer": "My boss is coming by.",
-        "hint": "Use 'aan het' + infinitive for 'komen'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Mijn baas _____ langs.",
+        "answer": "Mijn baas is langs aan het komen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'komen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to explain",
+    "infinitive": "uitleggen",
     "forms": {
       "present": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I'll explain the schedule.",
-        "hint": "This is the present tense of 'to explain'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik leg de planning uit.",
+        "hint": "Dit is de tegenwoordige tijd van 'uitleggen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I explained the schedule.",
-        "hint": "This is the past tense of 'to explain'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik legde de planning uit.",
+        "hint": "Dit is de verleden tijd van 'uitleggen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ out the schedule.",
-        "answer": "I'm explaining the schedule.",
-        "hint": "Use 'aan het' + infinitive for 'uitgelegd'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ de planning uit.",
+        "answer": "Ik ben de planning aan het uitleggen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'uitleggen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to write",
+    "infinitive": "schrijven",
     "forms": {
       "present": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I write in my diary.",
-        "hint": "This is the present tense of 'to write'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik schrijf in mijn agenda.",
+        "hint": "Dit is de tegenwoordige tijd van 'schrijven'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I wrote in my diary.",
-        "hint": "This is the past tense of 'to write'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik schreef in mijn agenda.",
+        "hint": "Dit is de verleden tijd van 'schrijven'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ in my diary.",
-        "answer": "I'm writing in my diary.",
-        "hint": "Use 'aan het' + infinitive for 'schrijven'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ in mijn agenda.",
+        "answer": "Ik ben in mijn agenda aan het schrijven.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'schrijven'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to clean up",
+    "infinitive": "opruimen",
     "forms": {
       "present": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I'm cleaning my desk.",
-        "hint": "This is the present tense of 'to tidy up'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ruim mijn bureau op.",
+        "hint": "Dit is de tegenwoordige tijd van 'opruimen'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I cleaned up my desk.",
-        "hint": "This is the past tense of 'to tidy up'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ruimde mijn bureau op.",
+        "hint": "Dit is de verleden tijd van 'opruimen'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ up my desk.",
-        "answer": "I'm cleaning up my desk.",
-        "hint": "Use 'aan het' + infinitive for 'tidy up'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn bureau op.",
+        "answer": "Ik ben mijn bureau aan het opruimen.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'opruimen'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to close",
+    "infinitive": "afsluiten",
     "forms": {
       "present": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I'm shutting down my computer.",
-        "hint": "This is the present tense of 'to close'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik sluit mijn computer af.",
+        "hint": "Dit is de tegenwoordige tijd van 'afsluiten'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I shut down my computer.",
-        "hint": "This is the past tense of 'to close'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik sloot mijn computer af.",
+        "hint": "Dit is de verleden tijd van 'afsluiten'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ off my computer.",
-        "answer": "I'm shutting down my computer.",
-        "hint": "Use 'aan het' + infinitive for 'afsluiten'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ mijn computer af.",
+        "answer": "Ik ben mijn computer aan het afsluiten.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'afsluiten'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   },
   {
-    "infinitive": "to drive",
+    "infinitive": "rijden",
     "forms": {
       "present": {
-        "sentence": "I _____ home.",
-        "answer": "I'm driving home.",
-        "hint": "This is the present tense of 'to drive'",
-        "explanation": "Use the stem of the verb, with the correct ending for the person."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik rijd naar huis.",
+        "hint": "Dit is de tegenwoordige tijd van 'rijden'",
+        "explanation": "Gebruik de stam van het werkwoord, met juiste uitgang voor de persoon."
       },
       "past": {
-        "sentence": "I _____ home.",
-        "answer": "I was driving home.",
-        "hint": "This is the past tense of 'to drive'",
-        "explanation": "Past tense often ends in -te(n) or -de(n) depending on the verb."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik reed naar huis.",
+        "hint": "Dit is de verleden tijd van 'rijden'",
+        "explanation": "Verleden tijd eindigt vaak op -te(n) of -de(n) afhankelijk van het werkwoord."
       },
       "continuous": {
-        "sentence": "I _____ home.",
-        "answer": "I'm driving home.",
-        "hint": "Use 'aan het' + infinitive for 'rijden'",
-        "explanation": "The form: zijn + aan het + hele verb shows an action that is in progress."
+        "sentence": "Ik _____ naar huis.",
+        "answer": "Ik ben naar huis aan het rijden.",
+        "hint": "Gebruik 'aan het' + infinitief voor 'rijden'",
+        "explanation": "De vorm: zijn + aan het + hele werkwoord toont een handeling die bezig is."
       }
     }
   }
